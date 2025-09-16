@@ -1,6 +1,5 @@
 import math
 from pico2d import *
-import math
 
 def move_ractangle():
     x = 400
